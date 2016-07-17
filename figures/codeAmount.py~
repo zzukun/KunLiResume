@@ -1,12 +1,13 @@
 #coding=utf8
 from matplotlib import pyplot as plt
 
-plt.figure( figsize=(12,8) )
+plt.figure( figsize=(6,9) )
 
 labels = [u'JAVA', u'Python' , u'C Shape']
-lines = [111, 4553, 12344]
 sizes =   [ 60 , 30 , 10]
 colors = [ 'red' , 'yellowgreen' , 'lightskyblue']
+dic = {'a':1 , 'b':2}
+print type(dic)
 # explode = (0.05 , 0 , 0)
 
 patched, l_text, p_text = plt.pie(sizes,
@@ -23,12 +24,6 @@ for t in l_text:
 for t in p_text:
 	t.set_size = (20)
 
-
-
 plt.axis('equal')
 plt.legend()
-
-plt.text(-0.67, -0.27, '1024 lines' , fontsize=11)
-plt.text(0.1, 0.48, '155 lines' , fontsize=11)
-plt.text(0.5, -0.1, '345 lines' , fontsize=11)
 plt.show()
