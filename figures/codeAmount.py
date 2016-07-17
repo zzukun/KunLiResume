@@ -3,10 +3,20 @@ from matplotlib import pyplot as plt
 
 plt.figure( figsize=(12,8) )
 
-labels = [u'JAVA', u'Python' , u'C Shape']
-lines = [111, 4553, 12344]
-sizes =   [ 60 , 30 , 10]
-colors = [ 'red' , 'yellowgreen' , 'lightskyblue']
+# JAVA      21592
+# Python  8869
+# Cshape 1579
+# Matlab  1783    sum 3362
+
+Njava = 21592
+Npython = 8869
+Ncshape = 1579
+Nmatlab = 1783
+
+
+labels = [u'JAVA', u'Python' , u'C Shape' , u'Matlab']
+sizes =   [ Njava , Npython , Ncshape , Nmatlab]
+colors = [ 'lightskyblue' , 'yellowgreen' , 'r' , 'm']
 # explode = (0.05 , 0 , 0)
 
 patched, l_text, p_text = plt.pie(sizes,
@@ -27,8 +37,10 @@ for t in p_text:
 
 plt.axis('equal')
 plt.legend()
+# plt.title('Program Language used in 2013-2016')
 
-plt.text(-0.67, -0.27, '1024 lines' , fontsize=11)
-plt.text(0.1, 0.48, '155 lines' , fontsize=11)
-plt.text(0.5, -0.1, '345 lines' , fontsize=11)
+plt.text(-0.64, -0.33, str(Njava) + ' lines' , fontsize=11 )
+plt.text(0.45, 0, str(Npython) + ' lines' , fontsize=11 )
+plt.text(0.24, 0.63, str(Ncshape) + ' lines' , fontsize=11 )
+plt.text(0, 0.7 , str(Nmatlab) + ' lines' , fontsize=11 )
 plt.show()
