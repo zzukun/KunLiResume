@@ -1,9 +1,15 @@
 \documentclass[line, margin]{res}
 \usepackage{fontspec}
+\usepackage{epsfig}
+\usepackage{type1cm}
+\usepackage{type1cm}
 %\setmainfont{SimSun}
 \newfontfamily\仿宋{仿宋}
 \newfontfamily\黑体{黑体}
 \newfontfamily\楷体{楷体}
+
+\newcommand{\xiaowu}{\fontsize{9pt}{15.75pt}\selectfont} % 小五号, 单倍行距
+
 
 \begin{document}
 \name{\仿宋 李  昆}
@@ -52,8 +58,8 @@
  获取公交车在道路上的运行情况，进而估计特定路段的交通拥堵状况。} \\
 [5pt]
  {\sl 2013.10$\sim$2014.05} 校园新闻的分类与信息抽取系统：{\仿宋 此系统基于SVM进行文本分类，\\
- 随后使用规则模板进行新闻主要信息的抽取。描述此系统的学士学位论文《文本分\\
- 类与信息抽取系统的设计与实现》获得校级优秀毕业论文。}} \\
+ 随后使用规则模板进行新闻主要信息的抽取。}\\
+   {\sl Relative:} {\仿宋\xiaowu 学士学位论文 《文本分类与信息抽取系统的设计与实现》 校级优秀毕业论文。}} \\
  
 \section{SKILLS}
 \begin{itemize}
@@ -62,6 +68,11 @@
 \item C Shape
 \item Matlab
 \end{itemize}
+
+\section{FIGURE}
+ {\sl 2013年$\sim$2016{\黑体 年编程语言使用情况}} \\ 
+[5pt]
+ \epsfig {figure=figures/figure_1.eps , height = 9cm, width = 13.5cm}
 
 \end{resume}
 
