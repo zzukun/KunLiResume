@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.6.1)  18 JUL 2016 10:54
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.6.1)  23 JUL 2016 16:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -601,25 +601,27 @@ LaTeX Font Warning: Font shape `EU1/仿宋(0)/bx/n' undefined
 (Font)              using `EU1/仿宋(0)/m/n' instead on input line 20.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--63
+Underfull \hbox (badness 10000) in paragraph at lines 36--71
 
- []
-
-Missing character: There is no 年 in font [lmromanslant10-regular]:mapping=tex-t
-ext!
-
-LaTeX Font Warning: Font shape `EU1/黑体(0)/m/sl' undefined
-(Font)              using `EU1/黑体(0)/m/n' instead on input line 73.
-
-File: figures/figure_1.eps Graphic file (type eps)
-<figures/figure_1.eps>
-Overfull \hbox (8.31548pt too wide) in paragraph at lines 73--76
-[] 
  []
 
 [1
 
-] [2]
+]
+Missing character: There is no 年 in font [lmromanslant10-regular]:mapping=tex-t
+ext!
+
+
+LaTeX Font Warning: Font shape `EU1/黑体(0)/m/sl' undefined
+(Font)              using `EU1/黑体(0)/m/n' instead on input line 81.
+
+File: figures/figure_1.eps Graphic file (type eps)
+<figures/figure_1.eps>
+Overfull \hbox (8.31548pt too wide) in paragraph at lines 81--84
+[] 
+ []
+
+[2]
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
