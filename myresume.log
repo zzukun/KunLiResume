@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.6.1)  23 JUL 2016 21:32
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.6.1)  23 JUL 2016 21:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -755,38 +755,28 @@ LaTeX Font Warning: Font shape `EU1/仿宋(0)/bx/n' undefined
 (Font)              using `EU1/仿宋(0)/m/n' instead on input line 25.
 
 
-Overfull \hbox (34.19623pt too wide) in paragraph at lines 42--83
-\EU1/仿宋(0)/m/n/10 最高特征对算法的基础上，提出的一种适用于时间序列基因表达分类的动态最高特征对算法。 
- []
-
-
-Overfull \hbox (54.19623pt too wide) in paragraph at lines 42--83
-\EU1/仿宋(0)/m/n/10 提取所有与胎儿体重相关的生理参数，利用这些参数与深度神经网络模型构建胎儿体重预测模型。
- []
-
-
-Overfull \hbox (30.86737pt too wide) in paragraph at lines 42--83
+Overfull \hbox (30.86737pt too wide) in paragraph at lines 42--85
 \EU1/lmr/m/sl/10 2015.10$\OMS/cmsy/m/n/10 ^^X$\EU1/lmr/m/sl/10 2016.01 \EU1/黑体(
 0)/m/n/10 基于循环神经网络的电子病例匿名化模型：\EU1/仿宋(0)/m/n/10 本工作提出一种适用于自动识别 
  []
 
 
-Overfull \hbox (184.19623pt too wide) in paragraph at lines 42--83
+Overfull \hbox (184.19623pt too wide) in paragraph at lines 42--85
 \EU1/仿宋(0)/m/n/10 电子病例中隐私信息的循环神经网络结构。此模型不但能够在准确性上与传统模型相媲美，并且具有很强的泛化能力与通用型， 
  []
 
 
-Overfull \hbox (164.19623pt too wide) in paragraph at lines 42--83
+Overfull \hbox (164.19623pt too wide) in paragraph at lines 42--85
 \EU1/仿宋(0)/m/n/10 在中文、英文等多个数据集上均有优秀的性能。其中中文数据集是我们与郑州妇幼保健院合作构建的数据集。（具体数字） 
  []
 
 
-Overfull \hbox (84.19623pt too wide) in paragraph at lines 42--83
+Overfull \hbox (84.19623pt too wide) in paragraph at lines 42--85
 \EU1/仿宋(0)/m/n/10 例中的隐私信息、患者参数等信息，随后将隐私信息从电子病例中移除，将各项参数提取为格式化数据。 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--83
+Underfull \hbox (badness 10000) in paragraph at lines 42--85
 
  []
 
@@ -799,29 +789,29 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 ]
 File: figures/figure_1.eps Graphic file (type eps)
  <figures/figure_1.eps>
-Overfull \hbox (8.31548pt too wide) in paragraph at lines 93--95
+Overfull \hbox (8.31548pt too wide) in paragraph at lines 95--97
 [] 
  []
 
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 102
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 105
 .
 (/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 102--105
+Underfull \hbox (badness 10000) in paragraph at lines 105--110
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 108.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 108.
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 108.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 108.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 113.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 113.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 108.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 113.
  ) 
 Here is how much of TeX's memory you used:
  20066 strings out of 493918
@@ -830,6 +820,6 @@ Here is how much of TeX's memory you used:
  23226 multiletter control sequences out of 15000+600000
  4592 words of font info for 35 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 46i,4n,35p,10403b,346s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,4n,35p,10403b,340s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on myresume.pdf (2 pages).
