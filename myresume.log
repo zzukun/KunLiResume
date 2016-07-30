@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.6.1)  26 JUL 2016 18:06
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.6.1)  30 JUL 2016 23:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -755,28 +755,7 @@ LaTeX Font Warning: Font shape `EU1/仿宋(0)/bx/n' undefined
 (Font)              using `EU1/仿宋(0)/m/n' instead on input line 25.
 
 
-Overfull \hbox (30.86737pt too wide) in paragraph at lines 42--85
-\EU1/lmr/m/sl/10 2015.10$\OMS/cmsy/m/n/10 ^^X$\EU1/lmr/m/sl/10 2016.01 \EU1/黑体(
-0)/m/n/10 基于循环神经网络的电子病例匿名化模型：\EU1/仿宋(0)/m/n/10 本工作提出一种适用于自动识别 
- []
-
-
-Overfull \hbox (184.19623pt too wide) in paragraph at lines 42--85
-\EU1/仿宋(0)/m/n/10 电子病例中隐私信息的循环神经网络结构。此模型不但能够在准确性上与传统模型相媲美，并且具有很强的泛化能力与通用型， 
- []
-
-
-Overfull \hbox (164.19623pt too wide) in paragraph at lines 42--85
-\EU1/仿宋(0)/m/n/10 在中文、英文等多个数据集上均有优秀的性能。其中中文数据集是我们与郑州妇幼保健院合作构建的数据集。（具体数字） 
- []
-
-
-Overfull \hbox (84.19623pt too wide) in paragraph at lines 42--85
-\EU1/仿宋(0)/m/n/10 例中的隐私信息、患者参数等信息，随后将隐私信息从电子病例中移除，将各项参数提取为格式化数据。 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 42--85
+Underfull \hbox (badness 10000) in paragraph at lines 42--89
 
  []
 
@@ -789,29 +768,29 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 ]
 File: figures/figure_1.eps Graphic file (type eps)
  <figures/figure_1.eps>
-Overfull \hbox (8.31548pt too wide) in paragraph at lines 95--97
+Overfull \hbox (8.31548pt too wide) in paragraph at lines 99--101
 [] 
  []
 
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 105
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 109
 .
 (/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 105--110
+Underfull \hbox (badness 10000) in paragraph at lines 109--114
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 117.
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 113.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 113.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 117.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 117.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 117.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 113.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 117.
  ) 
 Here is how much of TeX's memory you used:
  20066 strings out of 493918
