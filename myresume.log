@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.6.1)  4 AUG 2016 11:11
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.6.1)  4 AUG 2016 17:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -766,9 +766,9 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 [1
 
 ]
-File: figures/figure_2.eps Graphic file (type eps)
- <figures/figure_2.eps>
-Overfull \hbox (8.3109pt too wide) in paragraph at lines 101--103
+File: figures/figure_1.eps Graphic file (type eps)
+ <figures/figure_1.eps>
+Overfull \hbox (8.30737pt too wide) in paragraph at lines 101--103
 [] 
  []
 

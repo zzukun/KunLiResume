@@ -5,17 +5,17 @@ plt.figure( figsize=(12,8) )
 
 # JAVA      21592
 # Python  8869
-# Cshape 1579
+# Csharp 1579
 # Matlab  1783    sum 3362
 
 Njava = 21592
 Npython = 8869
-Ncshape = 1579
+Ncsharp = 1579
 Nmatlab = 1783
 
 
-labels = [u'JAVA', u'Python' , u'C Shape' , u'Matlab']
-sizes =   [ Njava , Npython , Ncshape , Nmatlab]
+labels = [u'JAVA', u'Python' , u'C Sharp' , u'Matlab']
+sizes =   [ Njava , Npython , Ncsharp , Nmatlab]
 colors = [ '#C4E1FF' , '#84C1FF' , '#2894FF' , '#0066CC']
 # explode = (0.05 , 0 , 0)
 
@@ -41,6 +41,6 @@ plt.legend()
 
 plt.text(-0.64, -0.33, str(Njava) + ' lines' , fontsize=11 )
 plt.text(0.5, 0, str(Npython) + ' lines' , fontsize=11 )
-plt.text(0.24, 0.63, str(Ncshape) + ' lines' , fontsize=11 )
+plt.text(0.24, 0.63, str(Ncsharp) + ' lines' , fontsize=11 )
 plt.text(0, 0.7 , str(Nmatlab) + ' lines' , fontsize=11 )
 plt.show()
