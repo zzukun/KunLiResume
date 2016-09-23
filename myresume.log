@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.6.1)  29 AUG 2016 20:43
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.6.1)  23 SEP 2016 19:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -755,7 +755,40 @@ LaTeX Font Warning: Font shape `EU1/仿宋(0)/bx/n' undefined
 (Font)              using `EU1/仿宋(0)/m/n' instead on input line 24.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--88
+Overfull \hbox (10.86737pt too wide) in paragraph at lines 41--92
+\EU1/lmr/m/sl/10 2015.04$\OMS/cmsy/m/n/10 ^^X$\EU1/lmr/m/sl/10 2015.07 \EU1/黑体(
+0)/m/n/10 开放领域的中文问答系统：\EU1/仿宋(0)/m/n/10 此系统将百度百科、维基百科、百度知道、 
+ []
+
+
+Overfull \hbox (4.19623pt too wide) in paragraph at lines 41--92
+\EU1/仿宋(0)/m/n/10 必应网典等作为在线知识库，利用中文分词、文本分类、语义角色标注等多种自然语言 
+ []
+
+
+Overfull \hbox (4.19623pt too wide) in paragraph at lines 41--92
+\EU1/仿宋(0)/m/n/10 处理技术搭建开放域问答系统。系统主要针对的问题类型为人物、地点、时间等事实类 
+ []
+
+
+Overfull \hbox (5.86737pt too wide) in paragraph at lines 41--92
+\EU1/lmr/m/sl/10 2014.04$\OMS/cmsy/m/n/10 ^^X$\EU1/lmr/m/sl/10 2014.08 \EU1/黑体(
+0)/m/n/10 道路交通状况分析系统：\EU1/仿宋(0)/m/n/10 系统通过抓取郑州市公交实时GPS候车信息， 
+ []
+
+
+Overfull \hbox (4.19623pt too wide) in paragraph at lines 41--92
+\EU1/仿宋(0)/m/n/10 获取公交车在道路上的运行情况，进而估计特定路段的交通拥堵状况。此系统分为服务 
+ []
+
+
+Overfull \hbox (0.86737pt too wide) in paragraph at lines 41--92
+\EU1/lmr/m/sl/10 2013.10$\OMS/cmsy/m/n/10 ^^X$\EU1/lmr/m/sl/10 2014.05 \EU1/黑体(
+0)/m/n/10 校园新闻的分类与信息抽取系统：\EU1/仿宋(0)/m/n/10 系统在每日定时抓取学校官方网站 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--92
 
  []
 
@@ -768,36 +801,36 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 ]
 File: figures/figure_1.eps Graphic file (type eps)
  <figures/figure_1.eps>
-Overfull \hbox (8.30737pt too wide) in paragraph at lines 98--100
+Overfull \hbox (8.30737pt too wide) in paragraph at lines 102--104
 [] 
  []
 
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 110
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 114
 .
 (/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 110--115
+Underfull \hbox (badness 10000) in paragraph at lines 114--119
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 118.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 122.
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 118.
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 118.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 118.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 122.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 122.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 122.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 118.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 122.
  ) 
 Here is how much of TeX's memory you used:
- 20071 strings out of 493918
- 374517 string characters out of 6150564
+ 20068 strings out of 493918
+ 374423 string characters out of 6150564
  415656 words of memory out of 5000000
- 23228 multiletter control sequences out of 15000+600000
- 4608 words of font info for 37 fonts, out of 8000000 for 9000
+ 23227 multiletter control sequences out of 15000+600000
+ 4600 words of font info for 36 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  46i,4n,35p,10403b,340s stack positions out of 5000i,500n,10000p,200000b,80000s
 
